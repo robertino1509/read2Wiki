@@ -3,7 +3,7 @@ Example to read the text extracts from Wikipedia APIs (javascript version)
 
 ## Getting Started and requirement
 
-Open read2Wiki.html with your browser for test.
+Open read2Wiki.html with your browser to perform a test.
 
 ### Installing
 
