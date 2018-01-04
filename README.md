@@ -1,5 +1,6 @@
 # read2Wiki
-Example to read the text extracts from Wikipedia APIs (javascript version)
+Example to read the text extracts from Wikipedia APIs (javascript version) using jquery.
+In this example I included bootstrap from read2Wiki.html graphical interface.
 
 ## Getting Started and requirement
 
